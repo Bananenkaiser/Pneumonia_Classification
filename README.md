@@ -7,9 +7,9 @@
 4. [Technologie-Stack](#technologie-stack)
 5. [Daten & Preprocessing](#daten--preprocessing)
 6. [Modellarchitektur](#modellarchitektur)
-7. [Usage / Beispiele](#usage--beispiele)
-8. [Evaluation & Ergebnisse](#evaluation--ergebnisse)
-9. [Screenshots / Visualisierungen](#screenshots--visualisierungen)
+7. [Evaluation & Ergebnisse](#evaluation--ergebnisse)
+8. [Screenshots / Visualisierungen](#screenshots--visualisierungen)
+9. [Poster](#poster)
 10. [Kontakt](#kontakt)
 
 ## Projektbeschreibung
@@ -122,6 +122,11 @@ model.compile(
   <img src="https://github.com/user-attachments/assets/2d83d46f-7a8b-4c59-b17e-dacc60c68985" alt="Trainingsverlauf" width="800"/>
 </p>
 
+## Poster
+
+📄 Das wissenschaftliche Poster zum Projekt:
+
+[Download als PDF](./assets/poster.pdf)
 
 ## Kontakt
 
